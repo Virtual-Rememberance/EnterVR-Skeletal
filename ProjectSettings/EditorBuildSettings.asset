@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/GameScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Samples/XR Interaction Toolkit/3.0.7/Starter Assets/DemoScene.unity
+    guid: 319dafa5c80f29f428dc1e0d03f04177
+  - enabled: 1
+    path: Assets/Scenes/MainLevel1.unity
+    guid: f89d548bfe69041498531a6768a99cf0
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e527f5da0de8d2b4c88d33d031e91060, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: b79152dc66093434da993d3495641a4e, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 1c851b37d174b9043b0631b399022ae3, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6c585d8a6886de94db276b2d59e7b8f7, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 904367bbcf1bb6e458faeaa2f4a658f3, type: 2}
+  m_UseUCBPForAssetBundles: 0
